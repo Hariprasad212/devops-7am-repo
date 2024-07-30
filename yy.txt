@@ -1,2 +1,6 @@
  to add comment through vi 
+<<<<<<< HEAD
 wwwddjhdhdhdhd
+=======
+helloooooooooooooooooooooo
+>>>>>>> 547451a5e54da775ecb63194a7c78f664f3f4e24
